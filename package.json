@@ -1,0 +1,16 @@
+{
+  "name": "reactjs-css-load",
+  "version": "1.0.0",
+  "description": "React component for load css files",
+  "main": "cssLoader.js",
+  "keywords": [
+    "css",
+    "loader",
+    "css loader",
+    "react",
+    "reactjs"
+  ],
+  "url" : "https://github.com/null-none/ReactCSSLoader",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
